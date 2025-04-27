@@ -70,7 +70,7 @@ def get_products():
     return jsonify(result)
 
 
-@product_bp.route('/scrape', methods=['GET'])
+@product_bp.route('/scrape', methods=['POST'])
 def scrape_and_upsert():
     data = request.get_json()
     url = data.get('url')

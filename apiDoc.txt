@@ -1,0 +1,25 @@
+
+
+### 1. `GET /api/products`
+
+**Description:**  
+Fetches a list of all scraped products with initial details.
+
+
+### 2. `GET /api/product/<product_id>`
+
+**Description:**  
+Fetches details of a specific product using its `product_id`. One can get the product id from the listing.
+
+
+### 3. `POST /api/scrape`
+
+**Description:**  
+Scrapes product information from the provided URL.
+
+**Request Body:**
+```json
+{
+  "url": "https://www.kroger.com/p/lay-s-classic-potato-chips/0002840019914?fulfillment=PICKUP&searchType=default_search"
+}
+

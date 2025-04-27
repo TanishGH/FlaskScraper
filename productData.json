@@ -1,0 +1,685 @@
+[
+
+    {
+        "apple_itunes_app": "app-id=403901186",
+        "description": "Shop for Lay's\u00ae Classic Potato Chips (8 oz) at Kroger. Find quality snacks products to add to your Shopping List or order online for Delivery or Pickup.",
+        "google_site_verification": "mLDjWodVihPJXvMAL0-8hcbuNludulWFtLJ5FFFMbyk",
+        "id": 1,
+        "nutrition_fact": {
+          "calories": "Calories 160",
+          "disclaimer": "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+          "id": 1,
+          "macros": [
+            {
+              "amount": "10mg",
+              "daily_value": "0%",
+              "id": 6,
+              "name": "Calcium",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "0mg",
+              "daily_value": "0%",
+              "id": 2,
+              "name": "Cholesterol",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "0.6mg",
+              "daily_value": "2%",
+              "id": 7,
+              "name": "Iron",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "350mg",
+              "daily_value": "6%",
+              "id": 8,
+              "name": "Potassium",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "2g",
+              "daily_value": "0%",
+              "id": 5,
+              "name": "Protein",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "140mg",
+              "daily_value": "6%",
+              "id": 3,
+              "name": "Sodium",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "15g",
+              "daily_value": "6%",
+              "id": 4,
+              "name": "Total Carbohydrate",
+              "sub_nutrients": [
+                {
+                  "amount": "1g",
+                  "daily_value": "5%",
+                  "id": 3,
+                  "name": "Dietary Fiber"
+                },
+                {
+                  "amount": "1g",
+                  "daily_value": "0%",
+                  "id": 4,
+                  "name": "Sugar"
+                }
+              ]
+            },
+            {
+              "amount": "10g",
+              "daily_value": "13%",
+              "id": 1,
+              "name": "Total Fat",
+              "sub_nutrients": [
+                {
+                  "amount": "1.5g",
+                  "daily_value": "7%",
+                  "id": 1,
+                  "name": "Saturated Fat"
+                },
+                {
+                  "amount": "0g",
+                  "daily_value": "0%",
+                  "id": 2,
+                  "name": "Trans Fat"
+                }
+              ]
+            },
+            {
+              "amount": "0mcg",
+              "daily_value": "0%",
+              "id": 9,
+              "name": "Vitamin D",
+              "sub_nutrients": []
+            }
+          ],
+          "serving_size": "Serving size About 15 chips (28g)",
+          "servings_per_container": "8.0 Servings Per Container"
+        },
+        "og_description": "Shop for Lay's\u00ae Classic Potato Chips (8 oz) at Kroger. Find quality snacks products to add to your Shopping List or order online for Delivery or Pickup.",
+        "og_image": "https://www.kroger.com/product/images/large/front/0002840019914",
+        "og_image_alt": "Kroger Logo",
+        "og_image_height": "512",
+        "og_image_width": "512",
+        "og_site_name": "Kroger",
+        "og_title": "Kroger - Lay's\u00ae Classic Potato Chips, 8 oz",
+        "og_url": "https://www.kroger.com/p/lay-s-classic-potato-chips/0002840019914",
+        "price_currency": "USD",
+        "product_detail": {
+          "brand": "Lay's",
+          "currency": "USD",
+          "description": "It starts with farm-grown potatoes- cooked and seasoned to perfection. Then we add the tang of sour cream and sharp cheddar. So every Lay's potato chip is perfectly crispy and delicious. Happiness in every bite. The shareable size is perfect for your next party or gathering. Try pairing with your favorite onion dip for a quick and easy appetizer. Try packing Classic Lay\u2019s Potato Chips in your next work or school lunch for just the right amount of deliciousness. Farm-grown potatoes seasoned with just the right amount of salt Gluten-Free Delicious alone or when with your favorite onion dip",
+          "id": 1,
+          "image": "https://www.kroger.com/product/images/medium/front/0002840019914",
+          "name": "Lay's\u00ae Classic Potato Chips, 8 oz",
+          "price": "3.99",
+          "sku": "0002840019914"
+        },
+        "theme_color": "#0f52a2",
+        "title": "Lay's\u00ae Classic Potato Chips, 8 oz - Kroger",
+        "twitter_card": "summary",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+      },
+      {
+        "apple_itunes_app": "app-id=403901186",
+        "description": "Shop for Kroger\u00ae Original Kettle Cooked Potato Chips (8 oz) at Kroger. Find quality snacks products to add to your Shopping List or order online for Delivery or Pickup.",
+        "google_site_verification": "mLDjWodVihPJXvMAL0-8hcbuNludulWFtLJ5FFFMbyk",
+        "id": 2,
+        "nutrition_fact": {
+          "calories": "Calories 150",
+          "disclaimer": "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+          "id": 2,
+          "macros": [
+            {
+              "amount": "0g",
+              "daily_value": "0%",
+              "id": 14,
+              "name": "Added Sugar",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "0mg",
+              "daily_value": "0%",
+              "id": 16,
+              "name": "Calcium",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "0mg",
+              "daily_value": "0%",
+              "id": 11,
+              "name": "Cholesterol",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "0.5mg",
+              "daily_value": "2%",
+              "id": 17,
+              "name": "Iron",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "350mg",
+              "daily_value": "8%",
+              "id": 18,
+              "name": "Potassium",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "2g",
+              "daily_value": "0%",
+              "id": 15,
+              "name": "Protein",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "90mg",
+              "daily_value": "4%",
+              "id": 12,
+              "name": "Sodium",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "15g",
+              "daily_value": "5%",
+              "id": 13,
+              "name": "Total Carbohydrate",
+              "sub_nutrients": [
+                {
+                  "amount": "0g",
+                  "daily_value": "0%",
+                  "id": 17,
+                  "name": "Added Sugar"
+                },
+                {
+                  "amount": "1g",
+                  "daily_value": "4%",
+                  "id": 15,
+                  "name": "Dietary Fiber"
+                },
+                {
+                  "amount": "0g",
+                  "daily_value": "0%",
+                  "id": 16,
+                  "name": "Sugar"
+                }
+              ]
+            },
+            {
+              "amount": "9g",
+              "daily_value": "12%",
+              "id": 10,
+              "name": "Total Fat",
+              "sub_nutrients": [
+                {
+                  "amount": "1.5g",
+                  "daily_value": "8%",
+                  "id": 13,
+                  "name": "Saturated Fat"
+                },
+                {
+                  "amount": "0g",
+                  "daily_value": "0%",
+                  "id": 14,
+                  "name": "Trans Fat"
+                }
+              ]
+            },
+            {
+              "amount": "0mcg",
+              "daily_value": "0%",
+              "id": 19,
+              "name": "Vitamin D",
+              "sub_nutrients": []
+            }
+          ],
+          "serving_size": "Serving size 1 oz (28g/about 15 chips)",
+          "servings_per_container": "8.0 Servings Per Container"
+        },
+        "og_description": "Shop for Kroger\u00ae Original Kettle Cooked Potato Chips (8 oz) at Kroger. Find quality snacks products to add to your Shopping List or order online for Delivery or Pickup.",
+        "og_image": "https://www.kroger.com/product/images/large/front/0001111002994",
+        "og_image_alt": "Kroger Logo",
+        "og_image_height": "512",
+        "og_image_width": "512",
+        "og_site_name": "Kroger",
+        "og_title": "Kroger - Kroger\u00ae Original Kettle Cooked Potato Chips, 8 oz",
+        "og_url": "https://www.kroger.com/p/kroger-original-kettle-cooked-potato-chips/0001111002994",
+        "price_currency": "USD",
+        "product_detail": {
+          "brand": "Kroger",
+          "currency": "USD",
+          "description": "Kroger\u00ae Original Kettle Cooked Potato Chips pack a bold, savory punch. These gluten free chips are made with simple ingredients: potatoes, vegetable oil, and salt, delivering an intense crunch. They're perfect for family game nights or casual gatherings. Relish their satisfying original flavor and make every occasion more delightful. Kroger\u00ae products are tried, tested and loved by you - quality guaranteed. 8 oz Bag of Kroger\u00ae Original Kettle Cooked Potato Chips Deliciously crunchy with bold, savory flavor Gluten free and kosher for diverse dietary needs Perfect for dipping appetizers or enjoying straight from the bag Kroger\u00ae quality you can trust",
+          "id": 2,
+          "image": "https://www.kroger.com/product/images/medium/front/0001111002994",
+          "name": "Kroger\u00ae Original Kettle Cooked Potato Chips, 8 oz",
+          "price": "2.19",
+          "sku": "0001111002994"
+        },
+        "theme_color": "#0f52a2",
+        "title": "Kroger\u00ae Original Kettle Cooked Potato Chips, 8 oz - Kroger",
+        "twitter_card": "summary",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+      },
+      {
+        "apple_itunes_app": "app-id=403901186",
+        "description": "Shop for Heluva Good\u00ae French Onion Dip (12 oz) at Kroger. Find quality dairy products to add to your Shopping List or order online for Delivery or Pickup.",
+        "google_site_verification": "mLDjWodVihPJXvMAL0-8hcbuNludulWFtLJ5FFFMbyk",
+        "id": 3,
+        "nutrition_fact": {
+          "calories": "Calories 50",
+          "disclaimer": "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+          "id": 3,
+          "macros": [
+            {
+              "amount": "0g",
+              "daily_value": "0%",
+              "id": 24,
+              "name": "Added Sugar",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "40mg",
+              "daily_value": "4%",
+              "id": 26,
+              "name": "Calcium",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "20mg",
+              "daily_value": "7%",
+              "id": 21,
+              "name": "Cholesterol",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "0mg",
+              "daily_value": "0%",
+              "id": 27,
+              "name": "Iron",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "60mg",
+              "daily_value": "2%",
+              "id": 28,
+              "name": "Potassium",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "1g",
+              "daily_value": "0%",
+              "id": 25,
+              "name": "Protein",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "170mg",
+              "daily_value": "7%",
+              "id": 22,
+              "name": "Sodium",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "2g",
+              "daily_value": "1%",
+              "id": 23,
+              "name": "Total Carbohydrate",
+              "sub_nutrients": [
+                {
+                  "amount": "0g",
+                  "daily_value": "0%",
+                  "id": 22,
+                  "name": "Added Sugar"
+                },
+                {
+                  "amount": "0g",
+                  "daily_value": "0%",
+                  "id": 20,
+                  "name": "Dietary Fiber"
+                },
+                {
+                  "amount": "2g",
+                  "daily_value": "0%",
+                  "id": 21,
+                  "name": "Sugar"
+                }
+              ]
+            },
+            {
+              "amount": "4.5g",
+              "daily_value": "6%",
+              "id": 20,
+              "name": "Total Fat",
+              "sub_nutrients": [
+                {
+                  "amount": "3g",
+                  "daily_value": "15%",
+                  "id": 18,
+                  "name": "Saturated Fat"
+                },
+                {
+                  "amount": "0g",
+                  "daily_value": "0%",
+                  "id": 19,
+                  "name": "Trans Fat"
+                }
+              ]
+            },
+            {
+              "amount": "0mcg",
+              "daily_value": "0%",
+              "id": 29,
+              "name": "Vitamin D",
+              "sub_nutrients": []
+            }
+          ],
+          "serving_size": "Serving size 2 Tbsp (31g)",
+          "servings_per_container": "11.0 Servings Per Container"
+        },
+        "og_description": "Shop for Heluva Good\u00ae French Onion Dip (12 oz) at Kroger. Find quality dairy products to add to your Shopping List or order online for Delivery or Pickup.",
+        "og_image": "https://www.kroger.com/product/images/large/front/0007357013000",
+        "og_image_alt": "Kroger Logo",
+        "og_image_height": "512",
+        "og_image_width": "512",
+        "og_site_name": "Kroger",
+        "og_title": "Kroger - Heluva Good\u00ae French Onion Dip, 12 oz",
+        "og_url": "https://www.kroger.com/p/heluva-good-french-onion-dip/0007357013000",
+        "price_currency": "USD",
+        "product_detail": {
+          "brand": "Heluva Good",
+          "currency": "USD",
+          "description": "There are lots of ways to enjoy the bold taste of Heluva Good\u00ae!",
+          "id": 3,
+          "image": "https://www.kroger.com/product/images/medium/front/0007357013000",
+          "name": "Heluva Good\u00ae French Onion Dip, 12 oz",
+          "price": "2.49",
+          "sku": "0007357013000"
+        },
+        "theme_color": "#0f52a2",
+        "title": "Heluva Good\u00ae French Onion Dip, 12 oz - Kroger",
+        "twitter_card": "summary",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+      },
+      {
+        "apple_itunes_app": "app-id=403901186",
+        "description": "Shop for Lay's\u00ae Original Wavy Potato Chips Party Size (13 oz) at Kroger. Find quality snacks products to add to your Shopping List or order online for Delivery or Pickup.",
+        "google_site_verification": "mLDjWodVihPJXvMAL0-8hcbuNludulWFtLJ5FFFMbyk",
+        "id": 4,
+        "nutrition_fact": {
+          "calories": "Calories 160",
+          "disclaimer": "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+          "id": 4,
+          "macros": [
+            {
+              "amount": "10mg",
+              "daily_value": "0%",
+              "id": 35,
+              "name": "Calcium",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "0mg",
+              "daily_value": "0%",
+              "id": 31,
+              "name": "Cholesterol",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "0.6mg",
+              "daily_value": "2%",
+              "id": 36,
+              "name": "Iron",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "350mg",
+              "daily_value": "6%",
+              "id": 37,
+              "name": "Potassium",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "2g",
+              "daily_value": "0%",
+              "id": 34,
+              "name": "Protein",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "140mg",
+              "daily_value": "6%",
+              "id": 32,
+              "name": "Sodium",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "15g",
+              "daily_value": "6%",
+              "id": 33,
+              "name": "Total Carbohydrate",
+              "sub_nutrients": [
+                {
+                  "amount": "1g",
+                  "daily_value": "5%",
+                  "id": 30,
+                  "name": "Dietary Fiber"
+                },
+                {
+                  "amount": "1g",
+                  "daily_value": "0%",
+                  "id": 31,
+                  "name": "Sugar"
+                }
+              ]
+            },
+            {
+              "amount": "10g",
+              "daily_value": "13%",
+              "id": 30,
+              "name": "Total Fat",
+              "sub_nutrients": [
+                {
+                  "amount": "1.5g",
+                  "daily_value": "7%",
+                  "id": 28,
+                  "name": "Saturated Fat"
+                },
+                {
+                  "amount": "0g",
+                  "daily_value": "0%",
+                  "id": 29,
+                  "name": "Trans Fat"
+                }
+              ]
+            },
+            {
+              "amount": "",
+              "daily_value": "6%",
+              "id": 38,
+              "name": "Vitamin C",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "0mcg",
+              "daily_value": "0%",
+              "id": 39,
+              "name": "Vitamin D",
+              "sub_nutrients": []
+            }
+          ],
+          "serving_size": "Serving size About 11 chips (28g)",
+          "servings_per_container": "13.0 Servings Per Container"
+        },
+        "og_description": "Shop for Lay's\u00ae Original Wavy Potato Chips Party Size (13 oz) at Kroger. Find quality snacks products to add to your Shopping List or order online for Delivery or Pickup.",
+        "og_image": "https://www.kroger.com/product/images/large/front/0002840031046",
+        "og_image_alt": "Kroger Logo",
+        "og_image_height": "512",
+        "og_image_width": "512",
+        "og_site_name": "Kroger",
+        "og_title": "Kroger - Lay's\u00ae Original Wavy Potato Chips Party Size, 13 oz",
+        "og_url": "https://www.kroger.com/p/lay-s-original-wavy-potato-chips-party-size/0002840031046",
+        "price_currency": "USD",
+        "product_detail": {
+          "brand": "Lay's",
+          "currency": "USD",
+          "description": "Wherever celebrations and good times happen, the Lay's brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face. Original 13.0 Ounce No Artificial Flavors No Preservatives/No Artificial Preservatives No MSG",
+          "id": 4,
+          "image": "https://www.kroger.com/product/images/medium/front/0002840031046",
+          "name": "Lay's\u00ae Original Wavy Potato Chips Party Size, 13 oz",
+          "price": "5.99",
+          "sku": "0002840031046"
+        },
+        "theme_color": "#0f52a2",
+        "title": "Lay's\u00ae Original Wavy Potato Chips Party Size, 13 oz - Kroger",
+        "twitter_card": "summary",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+      },
+      {
+        "apple_itunes_app": "app-id=403901186",
+        "description": "Shop for Cape Cod Potato Chips Original Kettle Chips (8 oz) at Kroger. Find quality snacks products to add to your Shopping List or order online for Delivery or Pickup.",
+        "google_site_verification": "mLDjWodVihPJXvMAL0-8hcbuNludulWFtLJ5FFFMbyk",
+        "id": 5,
+        "nutrition_fact": {
+          "calories": "Calories 140",
+          "disclaimer": "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+          "id": 5,
+          "macros": [
+            {
+              "amount": "0g",
+              "daily_value": "0%",
+              "id": 44,
+              "name": "Added Sugar",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "10mg",
+              "daily_value": "0%",
+              "id": 46,
+              "name": "Calcium",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "0mg",
+              "daily_value": "0%",
+              "id": 41,
+              "name": "Cholesterol",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "0.4mg",
+              "daily_value": "2%",
+              "id": 47,
+              "name": "Iron",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "430mg",
+              "daily_value": "10%",
+              "id": 48,
+              "name": "Potassium",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "2g",
+              "daily_value": "0%",
+              "id": 45,
+              "name": "Protein",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "125mg",
+              "daily_value": "5%",
+              "id": 42,
+              "name": "Sodium",
+              "sub_nutrients": []
+            },
+            {
+              "amount": "16g",
+              "daily_value": "6%",
+              "id": 43,
+              "name": "Total Carbohydrate",
+              "sub_nutrients": [
+                {
+                  "amount": "0g",
+                  "daily_value": "0%",
+                  "id": 36,
+                  "name": "Added Sugar"
+                },
+                {
+                  "amount": "2g",
+                  "daily_value": "7%",
+                  "id": 34,
+                  "name": "Dietary Fiber"
+                },
+                {
+                  "amount": "0g",
+                  "daily_value": "0%",
+                  "id": 35,
+                  "name": "Sugar"
+                }
+              ]
+            },
+            {
+              "amount": "8g",
+              "daily_value": "10%",
+              "id": 40,
+              "name": "Total Fat",
+              "sub_nutrients": [
+                {
+                  "amount": "0.5g",
+                  "daily_value": "3%",
+                  "id": 32,
+                  "name": "Saturated Fat"
+                },
+                {
+                  "amount": "0g",
+                  "daily_value": "0%",
+                  "id": 33,
+                  "name": "Trans Fat"
+                }
+              ]
+            },
+            {
+              "amount": "0mcg",
+              "daily_value": "0%",
+              "id": 49,
+              "name": "Vitamin D",
+              "sub_nutrients": []
+            }
+          ],
+          "serving_size": "Serving size 1 oz (28g/about 18 chips)",
+          "servings_per_container": "8.0 Servings Per Container"
+        },
+        "og_description": "Shop for Cape Cod Potato Chips Original Kettle Chips (8 oz) at Kroger. Find quality snacks products to add to your Shopping List or order online for Delivery or Pickup.",
+        "og_image": "https://www.kroger.com/product/images/large/front/0002068500164",
+        "og_image_alt": "Kroger Logo",
+        "og_image_height": "512",
+        "og_image_width": "512",
+        "og_site_name": "Kroger",
+        "og_title": "Kroger - Cape Cod Potato Chips Original Kettle Chips, 8 oz",
+        "og_url": "https://www.kroger.com/p/cape-cod-potato-chips-original-kettle-chips/0002068500164",
+        "price_currency": "USD",
+        "product_detail": {
+          "brand": "Cape Cod",
+          "currency": "USD",
+          "description": "Try the hearty potato flavor and wonderful crunch of Cape Cod Original potato chips. These kettle chips are made one batch at a time, with choice potatoes, sliced perfectly, and cooked in custom kettles at the precisely the right temperature to a golden amber hue. With unique shapes and fold, no two chips are the same. They're ridiculously good! Includes one (1) 8-ounce bag of Cape Cod Original Potato Chips Made one batch at a time, for one-of-a-kind chips with unique shapes and folds Kettle chips with hearty potato flavor and wonderful crunch Non-GMO, gluten-free snack with no artificial colors, flavors or preservatives Every chip is an invitation to savor what's special about Cape Cod",
+          "id": 5,
+          "image": "https://www.kroger.com/product/images/medium/front/0002068500164",
+          "name": "Cape Cod Potato Chips Original Kettle Chips, 8 oz",
+          "price": "5.29",
+          "sku": "0002068500164"
+        },
+        "theme_color": "#0f52a2",
+        "title": "Cape Cod Potato Chips Original Kettle Chips, 8 oz - Kroger",
+        "twitter_card": "summary",
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+      }
+
+]
