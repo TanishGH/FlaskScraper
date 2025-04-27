@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+httpx
+beautifulsoup4
+flask-marshmallow
+marshmallow-sqlalchemy
